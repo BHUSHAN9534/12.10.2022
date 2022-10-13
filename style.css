@@ -1,6 +1,19 @@
-body{
-    border: 1px solid;
-    color: black;
+main{
+    border: 5px solid red;
     border-collapse: collapse;
+    padding: 20px;
 }
 
+hr {
+    border-top: 10px solid red;
+    
+}
+
+.santosh {
+    border: thick double #32a1ce;
+
+}
+
+.border12 {
+    border: 6px solid greenyellow;
+}
